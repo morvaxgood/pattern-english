@@ -1,0 +1,1304 @@
+{
+  "chapters": [
+    {
+      "id": 1,
+      "title": "I can't help but~",
+      "description": "~하지 않을 수 없어",
+      "level": "B1",
+      "questions": [
+        { "id": "1-1", "ko": "웃지 않을 수가 없어.", "answer": "I can't help but laugh." },
+        { "id": "1-2", "ko": "그가 그립지 않을 수가 없어.", "answer": "I can't help but miss him." },
+        { "id": "1-3", "ko": "최악을 상상하지 않을 수가 없어.", "answer": "I can't help but imagine the worst." },
+        { "id": "1-4", "ko": "그녀를 볼 때마다 미소 짓지 않을 수가 없어.", "answer": "I can't help but smile every time I see her." },
+        { "id": "1-5", "ko": "그 말을 들을 때마다 화가 나지 않을 수가 없어.", "answer": "I can't help but feel angry every time I hear that." }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "I was about to~",
+      "description": "막 ~하려던 참이었어",
+      "level": "B1",
+      "questions": [
+        { "id": "2-1", "ko": "막 떠나려던 참이었어.", "answer": "I was about to leave." },
+        { "id": "2-2", "ko": "막 너한테 전화하려던 참이었어.", "answer": "I was about to call you." },
+        { "id": "2-3", "ko": "막 저녁을 먹으려던 참이었어.", "answer": "I was about to have dinner." },
+        { "id": "2-4", "ko": "막 그 이메일에 답장하려던 참이었어.", "answer": "I was about to reply to that email." },
+        { "id": "2-5", "ko": "막 너한테 그 소식을 알려주려던 참이었어.", "answer": "I was about to tell you the news." }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "It's not like~",
+      "description": "~한 것도 아니잖아",
+      "level": "B1",
+      "questions": [
+        { "id": "3-1", "ko": "내가 거짓말한 것도 아니잖아.", "answer": "It's not like I lied." },
+        { "id": "3-2", "ko": "우리가 서두르는 것도 아니잖아.", "answer": "It's not like we are in a hurry." },
+        { "id": "3-3", "ko": "내가 일부러 그런 것도 아니잖아.", "answer": "It's not like I did it on purpose." },
+        { "id": "3-4", "ko": "그가 우리를 도울 시간이 있는 것도 아니잖아.", "answer": "It's not like he has time to help us." },
+        { "id": "3-5", "ko": "우리한테 다른 선택지가 많은 것도 아니잖아.", "answer": "It's not like we have many other options to choose from." }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "I should have~",
+      "description": "~했어야 했는데",
+      "level": "B1",
+      "questions": [
+        { "id": "4-1", "ko": "더 일찍 왔어야 했는데.", "answer": "I should have come earlier." },
+        { "id": "4-2", "ko": "더 열심히 공부했어야 했는데.", "answer": "I should have studied harder." },
+        { "id": "4-3", "ko": "그녀의 말을 들었어야 했는데.", "answer": "I should have listened to her." },
+        { "id": "4-4", "ko": "떠나기 전에 그에게 말했어야 했는데.", "answer": "I should have told him before leaving." },
+        { "id": "4-5", "ko": "그렇게 큰 결정을 내리기 전에 좀 더 생각했어야 했는데.", "answer": "I should have thought more before making such a big decision." }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "There's no point in~",
+      "description": "~해봤자 소용없어",
+      "level": "B1",
+      "questions": [
+        { "id": "5-1", "ko": "걱정해봤자 소용없어.", "answer": "There's no point in worrying." },
+        { "id": "5-2", "ko": "기다려봤자 소용없어.", "answer": "There's no point in waiting." },
+        { "id": "5-3", "ko": "과거에 대해 불평해봤자 소용없어.", "answer": "There's no point in complaining about the past." },
+        { "id": "5-4", "ko": "바꿀 수 없는 것에 대해 싸워봤자 소용없어.", "answer": "There's no point in fighting over something you can't change." },
+        { "id": "5-5", "ko": "아무도 듣지 않을 건데 설명하려고 해봤자 소용없어.", "answer": "There's no point in trying to explain when nobody is going to listen." }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "I ended up~",
+      "description": "결국 ~하게 됐어",
+      "level": "B1",
+      "questions": [
+        { "id": "6-1", "ko": "결국 집에 있게 됐어.", "answer": "I ended up staying home." },
+        { "id": "6-2", "ko": "결국 택시를 타게 됐어.", "answer": "I ended up taking a taxi." },
+        { "id": "6-3", "ko": "결국 피자를 주문하게 됐어.", "answer": "I ended up ordering pizza." },
+        { "id": "6-4", "ko": "결국 밤새 그 프로젝트를 하게 됐어.", "answer": "I ended up working on the project all night." },
+        { "id": "6-5", "ko": "결국 원래 계획을 취소하고 집에 있게 됐어.", "answer": "I ended up canceling my original plan and staying home." }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "I'm used to~",
+      "description": "~하는 데 익숙해",
+      "level": "B1",
+      "questions": [
+        { "id": "7-1", "ko": "일찍 일어나는 데 익숙해.", "answer": "I'm used to waking up early." },
+        { "id": "7-2", "ko": "혼자 사는 데 익숙해.", "answer": "I'm used to living alone." },
+        { "id": "7-3", "ko": "압박감 속에서 일하는 데 익숙해.", "answer": "I'm used to working under pressure." },
+        { "id": "7-4", "ko": "매일 긴 시간 운전하는 데 익숙해.", "answer": "I'm used to driving long hours every day." },
+        { "id": "7-5", "ko": "마감 시간이 촉박한 상황에서 일하는 데 익숙해.", "answer": "I'm used to working in situations with tight deadlines." }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "I keep~ing",
+      "description": "자꾸 ~하게 돼",
+      "level": "B1",
+      "questions": [
+        { "id": "8-1", "ko": "자꾸 잊어버리게 돼.", "answer": "I keep forgetting." },
+        { "id": "8-2", "ko": "자꾸 같은 실수를 하게 돼.", "answer": "I keep making the same mistake." },
+        { "id": "8-3", "ko": "자꾸 그 노래를 듣게 돼.", "answer": "I keep listening to that song." },
+        { "id": "8-4", "ko": "자꾸 어젯밤에 있었던 일을 생각하게 돼.", "answer": "I keep thinking about what happened last night." },
+        { "id": "8-5", "ko": "자꾸 내가 다르게 했으면 어땠을까 상상하게 돼.", "answer": "I keep imagining what it would have been like if I had done things differently." }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "I can't afford to~",
+      "description": "~할 여유가 없어",
+      "level": "B1",
+      "questions": [
+        { "id": "9-1", "ko": "실패할 여유가 없어.", "answer": "I can't afford to fail." },
+        { "id": "9-2", "ko": "시간을 낭비할 여유가 없어.", "answer": "I can't afford to waste time." },
+        { "id": "9-3", "ko": "이번 기회를 놓칠 여유가 없어.", "answer": "I can't afford to miss this chance." },
+        { "id": "9-4", "ko": "지금 새 차를 살 여유가 없어.", "answer": "I can't afford to buy a new car right now." },
+        { "id": "9-5", "ko": "지금 직장에서 또 하루를 쉴 여유가 없어.", "answer": "I can't afford to take another day off from work right now." }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "It turns out~",
+      "description": "알고 보니 ~이더라",
+      "level": "B1",
+      "questions": [
+        { "id": "10-1", "ko": "알고 보니 그가 맞더라.", "answer": "It turns out he was right." },
+        { "id": "10-2", "ko": "알고 보니 우리가 이웃이더라.", "answer": "It turns out we are neighbors." },
+        { "id": "10-3", "ko": "알고 보니 그 가게가 문을 닫았더라.", "answer": "It turns out the store closed down." },
+        { "id": "10-4", "ko": "알고 보니 그녀가 이미 그 소식을 알고 있었더라.", "answer": "It turns out she already knew about the news." },
+        { "id": "10-5", "ko": "알고 보니 내가 걱정했던 것들이 전혀 문제가 아니었더라.", "answer": "It turns out the things I was worried about were not a problem at all." }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "I feel like~ing",
+      "description": "~하고 싶은 기분이야",
+      "level": "B1",
+      "questions": [
+        { "id": "11-1", "ko": "울고 싶은 기분이야.", "answer": "I feel like crying." },
+        { "id": "11-2", "ko": "산책하고 싶은 기분이야.", "answer": "I feel like taking a walk." },
+        { "id": "11-3", "ko": "오늘은 요리하고 싶은 기분이야.", "answer": "I feel like cooking today." },
+        { "id": "11-4", "ko": "모든 걸 내려놓고 쉬고 싶은 기분이야.", "answer": "I feel like dropping everything and taking a rest." },
+        { "id": "11-5", "ko": "짐 싸서 어디론가 멀리 여행을 떠나고 싶은 기분이야.", "answer": "I feel like packing my bags and going on a trip somewhere far away." }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "I'm thinking of~ing",
+      "description": "~할까 생각 중이야",
+      "level": "B1",
+      "questions": [
+        { "id": "12-1", "ko": "이사할까 생각 중이야.", "answer": "I'm thinking of moving." },
+        { "id": "12-2", "ko": "직장을 그만둘까 생각 중이야.", "answer": "I'm thinking of quitting my job." },
+        { "id": "12-3", "ko": "새로운 취미를 시작할까 생각 중이야.", "answer": "I'm thinking of starting a new hobby." },
+        { "id": "12-4", "ko": "이번 여름에 유럽에 갈까 생각 중이야.", "answer": "I'm thinking of going to Europe this summer." },
+        { "id": "12-5", "ko": "온라인 강의에 등록해서 새로운 기술을 배울까 생각 중이야.", "answer": "I'm thinking of signing up for an online course to learn a new skill." }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "I couldn't help but~",
+      "description": "~하지 않을 수 없었어",
+      "level": "B1",
+      "questions": [
+        { "id": "13-1", "ko": "웃지 않을 수 없었어.", "answer": "I couldn't help but laugh." },
+        { "id": "13-2", "ko": "쳐다보지 않을 수 없었어.", "answer": "I couldn't help but stare." },
+        { "id": "13-3", "ko": "그의 말에 동의하지 않을 수 없었어.", "answer": "I couldn't help but agree with him." },
+        { "id": "13-4", "ko": "그녀가 한 말에 대해 궁금해하지 않을 수 없었어.", "answer": "I couldn't help but wonder about what she said." },
+        { "id": "13-5", "ko": "모든 것이 다르게 됐으면 어땠을까 생각하지 않을 수 없었어.", "answer": "I couldn't help but think about how things could have been different." }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "I'm supposed to~",
+      "description": "~하기로 되어 있어",
+      "level": "B1",
+      "questions": [
+        { "id": "14-1", "ko": "지금 거기에 있기로 되어 있어.", "answer": "I'm supposed to be there now." },
+        { "id": "14-2", "ko": "오늘 일찍 끝나기로 되어 있어.", "answer": "I'm supposed to finish early today." },
+        { "id": "14-3", "ko": "내일 아침에 그를 만나기로 되어 있어.", "answer": "I'm supposed to meet him tomorrow morning." },
+        { "id": "14-4", "ko": "이번 주까지 그 보고서를 제출하기로 되어 있어.", "answer": "I'm supposed to submit the report by this week." },
+        { "id": "14-5", "ko": "오늘 저녁까지 프레젠테이션 준비를 다 끝내기로 되어 있어.", "answer": "I'm supposed to finish preparing the presentation by this evening." }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "It seems like~",
+      "description": "~인 것 같아",
+      "level": "B1",
+      "questions": [
+        { "id": "15-1", "ko": "비가 올 것 같아.", "answer": "It seems like it's going to rain." },
+        { "id": "15-2", "ko": "그가 화가 난 것 같아.", "answer": "It seems like he is upset." },
+        { "id": "15-3", "ko": "상황이 좋아지고 있는 것 같아.", "answer": "It seems like things are getting better." },
+        { "id": "15-4", "ko": "아무도 무슨 일이 일어나고 있는지 모르는 것 같아.", "answer": "It seems like nobody knows what is going on." },
+        { "id": "15-5", "ko": "우리가 아무리 노력해도 제시간에 끝내지 못할 것 같아.", "answer": "It seems like we won't be able to finish on time no matter how hard we try." }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "I ended up~ing",
+      "description": "결국 ~하고 말았어",
+      "level": "B1",
+      "questions": [
+        { "id": "16-1", "ko": "결국 울고 말았어.", "answer": "I ended up crying." },
+        { "id": "16-2", "ko": "결국 늦잠을 자고 말았어.", "answer": "I ended up oversleeping." },
+        { "id": "16-3", "ko": "결국 그에게 비밀을 말하고 말았어.", "answer": "I ended up telling him the secret." },
+        { "id": "16-4", "ko": "결국 필요 없는 것을 잔뜩 사고 말았어.", "answer": "I ended up buying a bunch of things I didn't need." },
+        { "id": "16-5", "ko": "결국 밤새도록 드라마를 보고 말았어.", "answer": "I ended up watching the drama all night long." }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "I'm worried about~",
+      "description": "~이 걱정돼",
+      "level": "B1",
+      "questions": [
+        { "id": "17-1", "ko": "시험이 걱정돼.", "answer": "I'm worried about the exam." },
+        { "id": "17-2", "ko": "내 건강이 걱정돼.", "answer": "I'm worried about my health." },
+        { "id": "17-3", "ko": "내일 면접이 걱정돼.", "answer": "I'm worried about the interview tomorrow." },
+        { "id": "17-4", "ko": "제시간에 끝낼 수 있을지 걱정돼.", "answer": "I'm worried about whether I can finish on time." },
+        { "id": "17-5", "ko": "이 프로젝트가 어떻게 될지 점점 더 걱정돼.", "answer": "I'm worried about how this project is going to turn out." }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "I had no idea~",
+      "description": "~인 줄 전혀 몰랐어",
+      "level": "B1",
+      "questions": [
+        { "id": "18-1", "ko": "그가 여기 있는 줄 전혀 몰랐어.", "answer": "I had no idea he was here." },
+        { "id": "18-2", "ko": "그게 그렇게 비싼 줄 전혀 몰랐어.", "answer": "I had no idea it was so expensive." },
+        { "id": "18-3", "ko": "네가 요리를 그렇게 잘하는 줄 전혀 몰랐어.", "answer": "I had no idea you were such a good cook." },
+        { "id": "18-4", "ko": "그들이 이미 결혼한 줄 전혀 몰랐어.", "answer": "I had no idea they were already married." },
+        { "id": "18-5", "ko": "그 문제가 그렇게 오랫동안 계속되고 있었는 줄 전혀 몰랐어.", "answer": "I had no idea that the problem had been going on for so long." }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "I can't believe~",
+      "description": "~라니 믿기지 않아",
+      "level": "B1",
+      "questions": [
+        { "id": "19-1", "ko": "벌써 금요일이라니 믿기지 않아.", "answer": "I can't believe it's already Friday." },
+        { "id": "19-2", "ko": "그가 그만뒀다니 믿기지 않아.", "answer": "I can't believe he quit." },
+        { "id": "19-3", "ko": "우리가 해냈다니 믿기지 않아.", "answer": "I can't believe we actually did it." },
+        { "id": "19-4", "ko": "네가 나한테 말 안 했다니 믿기지 않아.", "answer": "I can't believe you didn't tell me." },
+        { "id": "19-5", "ko": "이 일이 일어나기까지 이렇게 오래 걸렸다니 믿기지 않아.", "answer": "I can't believe it took this long for this to happen." }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "I'm looking forward to~",
+      "description": "~이 기대돼",
+      "level": "B1",
+      "questions": [
+        { "id": "20-1", "ko": "주말이 기대돼.", "answer": "I'm looking forward to the weekend." },
+        { "id": "20-2", "ko": "너를 만나는 게 기대돼.", "answer": "I'm looking forward to seeing you." },
+        { "id": "20-3", "ko": "여름 휴가가 기대돼.", "answer": "I'm looking forward to the summer vacation." },
+        { "id": "20-4", "ko": "새 프로젝트를 시작하는 게 기대돼.", "answer": "I'm looking forward to starting the new project." },
+        { "id": "20-5", "ko": "올해 가족들과 함께 명절을 보내는 게 정말 기대돼.", "answer": "I'm really looking forward to spending the holidays with my family this year." }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "I wish I could~",
+      "description": "~할 수 있으면 좋겠어",
+      "level": "B1",
+      "questions": [
+        { "id": "21-1", "ko": "도울 수 있으면 좋겠어.", "answer": "I wish I could help." },
+        { "id": "21-2", "ko": "더 오래 있을 수 있으면 좋겠어.", "answer": "I wish I could stay longer." },
+        { "id": "21-3", "ko": "그 파티에 갈 수 있으면 좋겠어.", "answer": "I wish I could go to that party." },
+        { "id": "21-4", "ko": "시간을 되돌릴 수 있으면 좋겠어.", "answer": "I wish I could turn back time." },
+        { "id": "21-5", "ko": "모든 걸 다 내려놓고 세계 여행을 할 수 있으면 좋겠어.", "answer": "I wish I could drop everything and travel around the world." }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "I don't mind~ing",
+      "description": "~해도 상관없어",
+      "level": "B1",
+      "questions": [
+        { "id": "22-1", "ko": "기다려도 상관없어.", "answer": "I don't mind waiting." },
+        { "id": "22-2", "ko": "걸어가도 상관없어.", "answer": "I don't mind walking." },
+        { "id": "22-3", "ko": "다시 해도 상관없어.", "answer": "I don't mind doing it again." },
+        { "id": "22-4", "ko": "네가 필요하면 야근해도 상관없어.", "answer": "I don't mind working late if you need me to." },
+        { "id": "22-5", "ko": "팀에 도움이 된다면 추가 업무를 맡아도 상관없어.", "answer": "I don't mind taking on extra work if it helps the team." }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "I can't stand~",
+      "description": "~을 못 참겠어",
+      "level": "B1",
+      "questions": [
+        { "id": "23-1", "ko": "이 더위를 못 참겠어.", "answer": "I can't stand this heat." },
+        { "id": "23-2", "ko": "그 소음을 못 참겠어.", "answer": "I can't stand that noise." },
+        { "id": "23-3", "ko": "줄 서서 기다리는 걸 못 참겠어.", "answer": "I can't stand waiting in line." },
+        { "id": "23-4", "ko": "사람들이 약속 시간에 늦는 걸 못 참겠어.", "answer": "I can't stand it when people are late." },
+        { "id": "23-5", "ko": "아무 이유 없이 뒤에서 남 얘기하는 사람들을 못 참겠어.", "answer": "I can't stand people who talk behind your back for no reason." }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "I'm having trouble~ing",
+      "description": "~하는 게 힘들어",
+      "level": "B1",
+      "questions": [
+        { "id": "24-1", "ko": "잠드는 게 힘들어.", "answer": "I'm having trouble sleeping." },
+        { "id": "24-2", "ko": "집중하는 게 힘들어.", "answer": "I'm having trouble concentrating." },
+        { "id": "24-3", "ko": "이 문제를 이해하는 게 힘들어.", "answer": "I'm having trouble understanding this problem." },
+        { "id": "24-4", "ko": "이 소프트웨어 사용법을 알아내는 게 힘들어.", "answer": "I'm having trouble figuring out how to use this software." },
+        { "id": "24-5", "ko": "바쁜 일정 속에서 운동할 시간을 내는 게 힘들어.", "answer": "I'm having trouble finding time to exercise with my busy schedule." }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "It's worth~ing",
+      "description": "~할 가치가 있어",
+      "level": "B1",
+      "questions": [
+        { "id": "25-1", "ko": "시도해 볼 가치가 있어.", "answer": "It's worth trying." },
+        { "id": "25-2", "ko": "기다릴 가치가 있어.", "answer": "It's worth waiting." },
+        { "id": "25-3", "ko": "그 영화 볼 가치가 있어.", "answer": "It's worth watching that movie." },
+        { "id": "25-4", "ko": "결정을 내리기 전에 생각해 볼 가치가 있어.", "answer": "It's worth thinking about before making a decision." },
+        { "id": "25-5", "ko": "장기적으로 보면 시간과 노력을 투자할 가치가 있어.", "answer": "It's worth investing time and effort in the long run." }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "I was wondering if~",
+      "description": "~인지 궁금했어",
+      "level": "B1",
+      "questions": [
+        { "id": "26-1", "ko": "도와줄 수 있는지 궁금했어.", "answer": "I was wondering if you could help." },
+        { "id": "26-2", "ko": "시간이 있는지 궁금했어.", "answer": "I was wondering if you have time." },
+        { "id": "26-3", "ko": "같이 갈 수 있는지 궁금했어.", "answer": "I was wondering if I could go with you." },
+        { "id": "26-4", "ko": "그 제안에 대해 어떻게 생각하는지 궁금했어.", "answer": "I was wondering if you had any thoughts on that offer." },
+        { "id": "26-5", "ko": "이번 주말에 만나서 그 프로젝트에 대해 이야기할 수 있는지 궁금했어.", "answer": "I was wondering if we could meet this weekend to talk about the project." }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "I'm not in the mood to~",
+      "description": "~할 기분이 아니야",
+      "level": "B1",
+      "questions": [
+        { "id": "27-1", "ko": "말할 기분이 아니야.", "answer": "I'm not in the mood to talk." },
+        { "id": "27-2", "ko": "요리할 기분이 아니야.", "answer": "I'm not in the mood to cook." },
+        { "id": "27-3", "ko": "오늘 밖에 나갈 기분이 아니야.", "answer": "I'm not in the mood to go out today." },
+        { "id": "27-4", "ko": "지금 아무것도 할 기분이 아니야.", "answer": "I'm not in the mood to do anything right now." },
+        { "id": "27-5", "ko": "오늘 하루 종일 힘들었어서 사람들을 만날 기분이 아니야.", "answer": "I'm not in the mood to meet people because I had a tough day." }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "I couldn't agree more",
+      "description": "정말 동감이야",
+      "level": "B1",
+      "questions": [
+        { "id": "28-1", "ko": "정말 동감이야.", "answer": "I couldn't agree more." },
+        { "id": "28-2", "ko": "네 말에 정말 동감이야.", "answer": "I couldn't agree more with you." },
+        { "id": "28-3", "ko": "네 말에 정말 동감이야, 완전히 맞아.", "answer": "I couldn't agree more with what you said." },
+        { "id": "28-4", "ko": "우리가 변화가 필요하다는 것에 정말 동감이야.", "answer": "I couldn't agree more that we need a change." },
+        { "id": "28-5", "ko": "이건 우리 모두가 함께 해결해야 한다는 네 의견에 정말 동감이야.", "answer": "I couldn't agree more with your opinion that this is something we all need to work on together." }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "I'm tired of~ing",
+      "description": "~하는 게 지겨워",
+      "level": "B1",
+      "questions": [
+        { "id": "29-1", "ko": "기다리는 게 지겨워.", "answer": "I'm tired of waiting." },
+        { "id": "29-2", "ko": "변명 듣는 게 지겨워.", "answer": "I'm tired of hearing excuses." },
+        { "id": "29-3", "ko": "매일 같은 일을 하는 게 지겨워.", "answer": "I'm tired of doing the same thing every day." },
+        { "id": "29-4", "ko": "아무것도 변하지 않는 척하는 게 지겨워.", "answer": "I'm tired of pretending nothing has changed." },
+        { "id": "29-5", "ko": "항상 모든 걸 혼자서 다 해결해야 하는 게 지겨워.", "answer": "I'm tired of always having to figure out everything on my own." }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "I almost~",
+      "description": "하마터면 ~할 뻔했어",
+      "level": "B1",
+      "questions": [
+        { "id": "30-1", "ko": "하마터면 넘어질 뻔했어.", "answer": "I almost fell." },
+        { "id": "30-2", "ko": "하마터면 버스를 놓칠 뻔했어.", "answer": "I almost missed the bus." },
+        { "id": "30-3", "ko": "하마터면 비밀을 말할 뻔했어.", "answer": "I almost told the secret." },
+        { "id": "30-4", "ko": "하마터면 그녀의 생일을 잊을 뻔했어.", "answer": "I almost forgot her birthday." },
+        { "id": "30-5", "ko": "하마터면 면접에 늦을 뻔했는데 다행히 택시를 잡았어.", "answer": "I almost arrived late for the interview, but luckily I caught a taxi." }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "I tend to~",
+      "description": "~하는 경향이 있어",
+      "level": "B1-B2",
+      "questions": [
+        { "id": "31-1", "ko": "너무 많이 먹는 경향이 있어.", "answer": "I tend to eat too much." },
+        { "id": "31-2", "ko": "일을 미루는 경향이 있어.", "answer": "I tend to put things off." },
+        { "id": "31-3", "ko": "압박감을 받으면 걱정하는 경향이 있어.", "answer": "I tend to worry when I'm under pressure." },
+        { "id": "31-4", "ko": "스트레스 받을 때 너무 많이 생각하는 경향이 있어.", "answer": "I tend to overthink when I'm stressed." },
+        { "id": "31-5", "ko": "다른 사람들의 감정을 내 것보다 먼저 생각하는 경향이 있어.", "answer": "I tend to put other people's feelings before my own." }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "I can't imagine~",
+      "description": "~은 상상도 못하겠어",
+      "level": "B1-B2",
+      "questions": [
+        { "id": "32-1", "ko": "그 없이 사는 건 상상도 못하겠어.", "answer": "I can't imagine living without him." },
+        { "id": "32-2", "ko": "다른 나라에서 사는 건 상상도 못하겠어.", "answer": "I can't imagine living in another country." },
+        { "id": "32-3", "ko": "그게 얼마나 힘들었을지 상상도 못하겠어.", "answer": "I can't imagine how hard that must have been." },
+        { "id": "32-4", "ko": "인터넷 없이 어떻게 살았는지 상상도 못하겠어.", "answer": "I can't imagine how people lived without the internet." },
+        { "id": "32-5", "ko": "갑자기 모든 걸 포기하고 처음부터 다시 시작하는 건 상상도 못하겠어.", "answer": "I can't imagine suddenly giving up everything and starting over from scratch." }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "It's no use~ing",
+      "description": "~해봤자 소용없어",
+      "level": "B1-B2",
+      "questions": [
+        { "id": "33-1", "ko": "울어봤자 소용없어.", "answer": "It's no use crying." },
+        { "id": "33-2", "ko": "불평해봤자 소용없어.", "answer": "It's no use complaining." },
+        { "id": "33-3", "ko": "그에게 설명해봤자 소용없어.", "answer": "It's no use explaining it to him." },
+        { "id": "33-4", "ko": "이미 일어난 일에 대해 후회해봤자 소용없어.", "answer": "It's no use regretting what already happened." },
+        { "id": "33-5", "ko": "마음을 이미 정한 사람을 설득해봤자 소용없어.", "answer": "It's no use trying to convince someone who has already made up their mind." }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "I'd rather~ than~",
+      "description": "~보다 차라리 ~하겠어",
+      "level": "B1-B2",
+      "questions": [
+        { "id": "34-1", "ko": "나가는 것보다 차라리 집에 있겠어.", "answer": "I'd rather stay home than go out." },
+        { "id": "34-2", "ko": "택시보다 차라리 걸어가겠어.", "answer": "I'd rather walk than take a taxi." },
+        { "id": "34-3", "ko": "거짓말하는 것보다 차라리 솔직히 말하겠어.", "answer": "I'd rather be honest than lie." },
+        { "id": "34-4", "ko": "나중에 후회하느니 차라리 지금 열심히 하겠어.", "answer": "I'd rather work hard now than regret it later." },
+        { "id": "34-5", "ko": "준비 안 된 채로 서두르느니 차라리 시간을 들여서 제대로 하겠어.", "answer": "I'd rather take my time and do it properly than rush and not be prepared." }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "I'm dying to~",
+      "description": "너무 ~하고 싶어",
+      "level": "B1-B2",
+      "questions": [
+        { "id": "35-1", "ko": "너무 알고 싶어.", "answer": "I'm dying to know." },
+        { "id": "35-2", "ko": "그 영화 너무 보고 싶어.", "answer": "I'm dying to see that movie." },
+        { "id": "35-3", "ko": "너무 여행 가고 싶어.", "answer": "I'm dying to go on a trip." },
+        { "id": "35-4", "ko": "그 새 레스토랑 너무 가보고 싶어.", "answer": "I'm dying to try that new restaurant." },
+        { "id": "35-5", "ko": "졸업하고 나서 무슨 일이 생길지 너무 보고 싶어.", "answer": "I'm dying to see what happens after I graduate." }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "I caught myself~ing",
+      "description": "나도 모르게 ~하고 있었어",
+      "level": "B1-B2",
+      "questions": [
+        { "id": "36-1", "ko": "나도 모르게 웃고 있었어.", "answer": "I caught myself smiling." },
+        { "id": "36-2", "ko": "나도 모르게 콧노래를 부르고 있었어.", "answer": "I caught myself humming." },
+        { "id": "36-3", "ko": "나도 모르게 그를 쳐다보고 있었어.", "answer": "I caught myself staring at him." },
+        { "id": "36-4", "ko": "나도 모르게 옛날 사진을 보면서 웃고 있었어.", "answer": "I caught myself smiling while looking at old photos." },
+        { "id": "36-5", "ko": "나도 모르게 회의 중에 딴 생각을 하면서 낙서를 하고 있었어.", "answer": "I caught myself daydreaming and doodling during the meeting." }
+      ]
+    },
+    {
+      "id": 37,
+      "title": "I can't help but feel~",
+      "description": "~한 기분이 들지 않을 수 없어",
+      "level": "B1-B2",
+      "questions": [
+        { "id": "37-1", "ko": "슬픈 기분이 들지 않을 수 없어.", "answer": "I can't help but feel sad." },
+        { "id": "37-2", "ko": "걱정되는 기분이 들지 않을 수 없어.", "answer": "I can't help but feel worried." },
+        { "id": "37-3", "ko": "내가 뭔가를 놓치고 있다는 기분이 들지 않을 수 없어.", "answer": "I can't help but feel like I'm missing something." },
+        { "id": "37-4", "ko": "이게 다 내 잘못이라는 기분이 들지 않을 수 없어.", "answer": "I can't help but feel like this is all my fault." },
+        { "id": "37-5", "ko": "아무리 노력해도 충분하지 않다는 기분이 들지 않을 수 없어.", "answer": "I can't help but feel like no matter how hard I try, it's not enough." }
+      ]
+    },
+    {
+      "id": 38,
+      "title": "What's the point of~?",
+      "description": "~해서 뭐가 좋아?",
+      "level": "B1-B2",
+      "questions": [
+        { "id": "38-1", "ko": "걱정해서 뭐가 좋아?", "answer": "What's the point of worrying?" },
+        { "id": "38-2", "ko": "서둘러서 뭐가 좋아?", "answer": "What's the point of rushing?" },
+        { "id": "38-3", "ko": "안 들을 건데 말해서 뭐가 좋아?", "answer": "What's the point of talking if no one listens?" },
+        { "id": "38-4", "ko": "즐기지도 못할 건데 열심히 일해서 뭐가 좋아?", "answer": "What's the point of working hard if you can't enjoy it?" },
+        { "id": "38-5", "ko": "끝까지 해볼 생각도 없으면서 시작해서 뭐가 좋아?", "answer": "What's the point of starting if you don't even plan to see it through?" }
+      ]
+    },
+    {
+      "id": 39,
+      "title": "I might as well~",
+      "description": "그냥 ~하는 게 낫겠어",
+      "level": "B1-B2",
+      "questions": [
+        { "id": "39-1", "ko": "그냥 가는 게 낫겠어.", "answer": "I might as well go." },
+        { "id": "39-2", "ko": "그냥 해보는 게 낫겠어.", "answer": "I might as well give it a try." },
+        { "id": "39-3", "ko": "그냥 집에 있는 게 낫겠어.", "answer": "I might as well stay home." },
+        { "id": "39-4", "ko": "어차피 여기 있으니 그냥 돕는 게 낫겠어.", "answer": "I might as well help since I'm already here." },
+        { "id": "39-5", "ko": "어차피 아무도 안 올 것 같으니 그냥 파티를 취소하는 게 낫겠어.", "answer": "I might as well cancel the party since it seems like nobody is coming." }
+      ]
+    },
+    {
+      "id": 40,
+      "title": "I'm meant to~",
+      "description": "~하기로 되어 있어",
+      "level": "B1-B2",
+      "questions": [
+        { "id": "40-1", "ko": "여기 있기로 되어 있어.", "answer": "I'm meant to be here." },
+        { "id": "40-2", "ko": "6시까지 끝내기로 되어 있어.", "answer": "I'm meant to finish by six." },
+        { "id": "40-3", "ko": "오늘 그녀를 만나기로 되어 있어.", "answer": "I'm meant to meet her today." },
+        { "id": "40-4", "ko": "이번 주까지 결정을 내리기로 되어 있어.", "answer": "I'm meant to make a decision by this week." },
+        { "id": "40-5", "ko": "내일 아침 회의에서 발표하기로 되어 있어.", "answer": "I'm meant to give a presentation at the meeting tomorrow morning." }
+      ]
+    },
+    {
+      "id": 41,
+      "title": "It's about time~",
+      "description": "이제 슬슬 ~할 때가 됐어",
+      "level": "B1-B2",
+      "questions": [
+        { "id": "41-1", "ko": "이제 슬슬 갈 때가 됐어.", "answer": "It's about time we left." },
+        { "id": "41-2", "ko": "이제 슬슬 변할 때가 됐어.", "answer": "It's about time things changed." },
+        { "id": "41-3", "ko": "이제 슬슬 진실을 말할 때가 됐어.", "answer": "It's about time you told the truth." },
+        { "id": "41-4", "ko": "이제 슬슬 네 자신을 돌볼 때가 됐어.", "answer": "It's about time you took care of yourself." },
+        { "id": "41-5", "ko": "이제 슬슬 미루던 일을 시작할 때가 됐어.", "answer": "It's about time you started working on what you've been putting off." }
+      ]
+    },
+    {
+      "id": 42,
+      "title": "I can't get over~",
+      "description": "~을 잊을 수가 없어",
+      "level": "B1-B2",
+      "questions": [
+        { "id": "42-1", "ko": "그 맛을 잊을 수가 없어.", "answer": "I can't get over that taste." },
+        { "id": "42-2", "ko": "그가 한 말을 잊을 수가 없어.", "answer": "I can't get over what he said." },
+        { "id": "42-3", "ko": "어젯밤에 있었던 일을 잊을 수가 없어.", "answer": "I can't get over what happened last night." },
+        { "id": "42-4", "ko": "그 경치가 얼마나 아름다웠는지 잊을 수가 없어.", "answer": "I can't get over how beautiful the scenery was." },
+        { "id": "42-5", "ko": "그녀가 나한테 아무 말도 없이 떠났다는 사실을 잊을 수가 없어.", "answer": "I can't get over the fact that she left without saying anything to me." }
+      ]
+    },
+    {
+      "id": 43,
+      "title": "I keep forgetting to~",
+      "description": "자꾸 ~하는 걸 잊어",
+      "level": "B1-B2",
+      "questions": [
+        { "id": "43-1", "ko": "자꾸 열쇠를 가져가는 걸 잊어.", "answer": "I keep forgetting to bring my keys." },
+        { "id": "43-2", "ko": "자꾸 약을 먹는 걸 잊어.", "answer": "I keep forgetting to take my medicine." },
+        { "id": "43-3", "ko": "자꾸 그에게 전화하는 걸 잊어.", "answer": "I keep forgetting to call him." },
+        { "id": "43-4", "ko": "자꾸 장 보러 갈 때 목록을 가져가는 걸 잊어.", "answer": "I keep forgetting to bring the list when I go grocery shopping." },
+        { "id": "43-5", "ko": "자꾸 자기 전에 불을 끄는 걸 잊어.", "answer": "I keep forgetting to turn off the lights before going to bed." }
+      ]
+    },
+    {
+      "id": 44,
+      "title": "I'm stuck~ing",
+      "description": "~하다 막혔어",
+      "level": "B1-B2",
+      "questions": [
+        { "id": "44-1", "ko": "여기서 기다리다 막혔어.", "answer": "I'm stuck waiting here." },
+        { "id": "44-2", "ko": "교통 체증에 막혔어.", "answer": "I'm stuck sitting in traffic." },
+        { "id": "44-3", "ko": "이 문제를 풀다 막혔어.", "answer": "I'm stuck trying to solve this problem." },
+        { "id": "44-4", "ko": "뭘 써야 할지 모르겠어서 막혔어.", "answer": "I'm stuck trying to figure out what to write." },
+        { "id": "44-5", "ko": "프로젝트의 다음 단계를 어떻게 해야 할지 몰라서 막혔어.", "answer": "I'm stuck trying to figure out how to handle the next step of the project." }
+      ]
+    },
+    {
+      "id": 45,
+      "title": "I couldn't care less~",
+      "description": "~은 전혀 신경 안 써",
+      "level": "B1-B2",
+      "questions": [
+        { "id": "45-1", "ko": "전혀 신경 안 써.", "answer": "I couldn't care less." },
+        { "id": "45-2", "ko": "그가 뭘 하든 전혀 신경 안 써.", "answer": "I couldn't care less about what he does." },
+        { "id": "45-3", "ko": "남들이 뭐라고 하든 전혀 신경 안 써.", "answer": "I couldn't care less about what others say." },
+        { "id": "45-4", "ko": "누가 파티에 오는지 전혀 신경 안 써.", "answer": "I couldn't care less about who comes to the party." },
+        { "id": "45-5", "ko": "사람들이 내 결정에 대해 어떻게 생각하든 전혀 신경 안 써.", "answer": "I couldn't care less about what people think of my decision." }
+      ]
+    },
+    {
+      "id": 46,
+      "title": "I'm dying of~",
+      "description": "~으로 죽을 것 같아",
+      "level": "B1-B2",
+      "questions": [
+        { "id": "46-1", "ko": "배고파 죽을 것 같아.", "answer": "I'm dying of hunger." },
+        { "id": "46-2", "ko": "목말라 죽을 것 같아.", "answer": "I'm dying of thirst." },
+        { "id": "46-3", "ko": "더워서 죽을 것 같아.", "answer": "I'm dying of heat." },
+        { "id": "46-4", "ko": "궁금해서 죽을 것 같아.", "answer": "I'm dying of curiosity." },
+        { "id": "46-5", "ko": "지루해서 죽을 것 같아, 재밌는 거 좀 하자.", "answer": "I'm dying of boredom, let's do something fun." }
+      ]
+    },
+    {
+      "id": 47,
+      "title": "There's no way~",
+      "description": "~은 절대 불가능해",
+      "level": "B1-B2",
+      "questions": [
+        { "id": "47-1", "ko": "그건 절대 불가능해.", "answer": "There's no way that's true." },
+        { "id": "47-2", "ko": "내가 이길 방법은 절대 없어.", "answer": "There's no way I can win." },
+        { "id": "47-3", "ko": "그가 거기 제시간에 도착하는 건 절대 불가능해.", "answer": "There's no way he can get there on time." },
+        { "id": "47-4", "ko": "우리가 하루 만에 이걸 끝내는 건 절대 불가능해.", "answer": "There's no way we can finish this in one day." },
+        { "id": "47-5", "ko": "나한테 아무 말도 안 하고 그렇게 큰 결정을 내린 건 절대 불가능해.", "answer": "There's no way he made such a big decision without telling me anything." }
+      ]
+    },
+    {
+      "id": 48,
+      "title": "I can't help thinking~",
+      "description": "~라는 생각이 자꾸 들어",
+      "level": "B1-B2",
+      "questions": [
+        { "id": "48-1", "ko": "내 잘못이라는 생각이 자꾸 들어.", "answer": "I can't help thinking it's my fault." },
+        { "id": "48-2", "ko": "그가 거짓말했다는 생각이 자꾸 들어.", "answer": "I can't help thinking he lied." },
+        { "id": "48-3", "ko": "뭔가 잘못됐다는 생각이 자꾸 들어.", "answer": "I can't help thinking something is wrong." },
+        { "id": "48-4", "ko": "더 좋은 방법이 있었을 거라는 생각이 자꾸 들어.", "answer": "I can't help thinking there was a better way." },
+        { "id": "48-5", "ko": "내가 다르게 행동했으면 결과가 달라졌을 거라는 생각이 자꾸 들어.", "answer": "I can't help thinking that the result would have been different if I had acted differently." }
+      ]
+    },
+    {
+      "id": 49,
+      "title": "I wonder if~",
+      "description": "~인지 궁금해",
+      "level": "B1-B2",
+      "questions": [
+        { "id": "49-1", "ko": "그가 올지 궁금해.", "answer": "I wonder if he will come." },
+        { "id": "49-2", "ko": "그녀가 괜찮은지 궁금해.", "answer": "I wonder if she is okay." },
+        { "id": "49-3", "ko": "비가 올지 궁금해.", "answer": "I wonder if it's going to rain." },
+        { "id": "49-4", "ko": "내가 올바른 결정을 내렸는지 궁금해.", "answer": "I wonder if I made the right decision." },
+        { "id": "49-5", "ko": "지금 이 순간에도 그가 나를 생각하고 있을지 궁금해.", "answer": "I wonder if he is thinking about me even at this very moment." }
+      ]
+    },
+    {
+      "id": 50,
+      "title": "I'm on the verge of~",
+      "description": "막 ~하려는 참이야",
+      "level": "B1-B2",
+      "questions": [
+        { "id": "50-1", "ko": "막 울려는 참이야.", "answer": "I'm on the verge of crying." },
+        { "id": "50-2", "ko": "막 포기하려는 참이야.", "answer": "I'm on the verge of giving up." },
+        { "id": "50-3", "ko": "막 폭발하려는 참이야.", "answer": "I'm on the verge of losing my temper." },
+        { "id": "50-4", "ko": "막 큰 결정을 내리려는 참이야.", "answer": "I'm on the verge of making a big decision." },
+        { "id": "50-5", "ko": "막 모든 걸 그만두고 새로 시작하려는 참이야.", "answer": "I'm on the verge of quitting everything and starting fresh." }
+      ]
+    },
+    {
+      "id": 51,
+      "title": "I've been meaning to~",
+      "description": "~하려고 했었어",
+      "level": "B1-B2",
+      "questions": [
+        { "id": "51-1", "ko": "전화하려고 했었어.", "answer": "I've been meaning to call." },
+        { "id": "51-2", "ko": "너한테 말하려고 했었어.", "answer": "I've been meaning to tell you." },
+        { "id": "51-3", "ko": "그 책을 읽으려고 했었어.", "answer": "I've been meaning to read that book." },
+        { "id": "51-4", "ko": "방을 정리하려고 했었는데 시간이 없었어.", "answer": "I've been meaning to clean my room, but I haven't had time." },
+        { "id": "51-5", "ko": "오랫동안 너한테 이 얘기를 하려고 했었는데 기회가 없었어.", "answer": "I've been meaning to talk to you about this for a long time, but I never had the chance." }
+      ]
+    },
+    {
+      "id": 52,
+      "title": "I can't wrap my head around~",
+      "description": "~을 이해할 수가 없어",
+      "level": "B1-B2",
+      "questions": [
+        { "id": "52-1", "ko": "이걸 이해할 수가 없어.", "answer": "I can't wrap my head around this." },
+        { "id": "52-2", "ko": "그 개념을 이해할 수가 없어.", "answer": "I can't wrap my head around that concept." },
+        { "id": "52-3", "ko": "왜 그가 떠났는지 이해할 수가 없어.", "answer": "I can't wrap my head around why he left." },
+        { "id": "52-4", "ko": "이 수학 문제를 도저히 이해할 수가 없어.", "answer": "I can't wrap my head around this math problem." },
+        { "id": "52-5", "ko": "그녀가 왜 아무 말도 없이 갑자기 마음을 바꿨는지 이해할 수가 없어.", "answer": "I can't wrap my head around why she suddenly changed her mind without saying anything." }
+      ]
+    },
+    {
+      "id": 53,
+      "title": "I'm running out of~",
+      "description": "~이 점점 없어지고 있어",
+      "level": "B1-B2",
+      "questions": [
+        { "id": "53-1", "ko": "시간이 점점 없어지고 있어.", "answer": "I'm running out of time." },
+        { "id": "53-2", "ko": "돈이 점점 없어지고 있어.", "answer": "I'm running out of money." },
+        { "id": "53-3", "ko": "아이디어가 점점 없어지고 있어.", "answer": "I'm running out of ideas." },
+        { "id": "53-4", "ko": "인내심이 점점 없어지고 있어.", "answer": "I'm running out of patience." },
+        { "id": "53-5", "ko": "이 문제를 해결할 수 있는 방법이 점점 없어지고 있어.", "answer": "I'm running out of ways to solve this problem." }
+      ]
+    },
+    {
+      "id": 54,
+      "title": "I had no choice but to~",
+      "description": "~할 수밖에 없었어",
+      "level": "B1-B2",
+      "questions": [
+        { "id": "54-1", "ko": "떠날 수밖에 없었어.", "answer": "I had no choice but to leave." },
+        { "id": "54-2", "ko": "동의할 수밖에 없었어.", "answer": "I had no choice but to agree." },
+        { "id": "54-3", "ko": "진실을 말할 수밖에 없었어.", "answer": "I had no choice but to tell the truth." },
+        { "id": "54-4", "ko": "그 제안을 받아들일 수밖에 없었어.", "answer": "I had no choice but to accept the offer." },
+        { "id": "54-5", "ko": "모두를 위해 어려운 결정을 내릴 수밖에 없었어.", "answer": "I had no choice but to make a tough decision for everyone." }
+      ]
+    },
+    {
+      "id": 55,
+      "title": "It occurred to me that~",
+      "description": "문득 ~이라는 생각이 들었어",
+      "level": "B1-B2",
+      "questions": [
+        { "id": "55-1", "ko": "문득 그가 맞다는 생각이 들었어.", "answer": "It occurred to me that he was right." },
+        { "id": "55-2", "ko": "문득 내가 틀렸다는 생각이 들었어.", "answer": "It occurred to me that I was wrong." },
+        { "id": "55-3", "ko": "문득 우리가 전에 만난 적이 있다는 생각이 들었어.", "answer": "It occurred to me that we had met before." },
+        { "id": "55-4", "ko": "문득 아무도 그 문제에 대해 신경 쓰지 않는다는 생각이 들었어.", "answer": "It occurred to me that nobody cared about the problem." },
+        { "id": "55-5", "ko": "문득 내가 그동안 가장 중요한 것을 놓치고 있었다는 생각이 들었어.", "answer": "It occurred to me that I had been missing the most important thing all along." }
+      ]
+    },
+    {
+      "id": 56,
+      "title": "I'm starting to think~",
+      "description": "~인 것 같다는 생각이 들기 시작해",
+      "level": "B1-B2",
+      "questions": [
+        { "id": "56-1", "ko": "그가 맞는 것 같다는 생각이 들기 시작해.", "answer": "I'm starting to think he's right." },
+        { "id": "56-2", "ko": "이건 좋은 생각이 아닌 것 같다는 생각이 들기 시작해.", "answer": "I'm starting to think this isn't a good idea." },
+        { "id": "56-3", "ko": "우리가 잘못된 방향으로 가고 있는 것 같다는 생각이 들기 시작해.", "answer": "I'm starting to think we're going in the wrong direction." },
+        { "id": "56-4", "ko": "이 일이 생각보다 훨씬 복잡한 것 같다는 생각이 들기 시작해.", "answer": "I'm starting to think this is much more complicated than I thought." },
+        { "id": "56-5", "ko": "처음부터 다시 시작하는 것이 더 나은 것 같다는 생각이 들기 시작해.", "answer": "I'm starting to think it would be better to start over from the beginning." }
+      ]
+    },
+    {
+      "id": 57,
+      "title": "I can't bring myself to~",
+      "description": "도저히 ~할 수가 없어",
+      "level": "B1-B2",
+      "questions": [
+        { "id": "57-1", "ko": "도저히 말할 수가 없어.", "answer": "I can't bring myself to say it." },
+        { "id": "57-2", "ko": "도저히 용서할 수가 없어.", "answer": "I can't bring myself to forgive him." },
+        { "id": "57-3", "ko": "도저히 그 사진을 지울 수가 없어.", "answer": "I can't bring myself to delete that photo." },
+        { "id": "57-4", "ko": "도저히 그에게 진실을 말할 수가 없어.", "answer": "I can't bring myself to tell him the truth." },
+        { "id": "57-5", "ko": "도저히 그녀에게 우리가 더 이상 만날 수 없다고 말할 수가 없어.", "answer": "I can't bring myself to tell her that we can't see each other anymore." }
+      ]
+    },
+    {
+      "id": 58,
+      "title": "I'm not cut out for~",
+      "description": "~에는 맞지 않는 것 같아",
+      "level": "B1-B2",
+      "questions": [
+        { "id": "58-1", "ko": "이 일에는 맞지 않는 것 같아.", "answer": "I'm not cut out for this job." },
+        { "id": "58-2", "ko": "영업에는 맞지 않는 것 같아.", "answer": "I'm not cut out for sales." },
+        { "id": "58-3", "ko": "사무실 근무에는 맞지 않는 것 같아.", "answer": "I'm not cut out for office work." },
+        { "id": "58-4", "ko": "아침 일찍 일어나는 생활에는 맞지 않는 것 같아.", "answer": "I'm not cut out for waking up early in the morning." },
+        { "id": "58-5", "ko": "사람들 앞에서 발표하는 것에는 맞지 않는 것 같아.", "answer": "I'm not cut out for giving presentations in front of people." }
+      ]
+    },
+    {
+      "id": 59,
+      "title": "I'd give anything to~",
+      "description": "~할 수 있다면 뭐든지 할 텐데",
+      "level": "B1-B2",
+      "questions": [
+        { "id": "59-1", "ko": "다시 볼 수 있다면 뭐든지 할 텐데.", "answer": "I'd give anything to see you again." },
+        { "id": "59-2", "ko": "그때로 돌아갈 수 있다면 뭐든지 할 텐데.", "answer": "I'd give anything to go back to that time." },
+        { "id": "59-3", "ko": "하루만 더 함께할 수 있다면 뭐든지 할 텐데.", "answer": "I'd give anything to spend one more day together." },
+        { "id": "59-4", "ko": "그 순간을 다시 살 수 있다면 뭐든지 할 텐데.", "answer": "I'd give anything to relive that moment." },
+        { "id": "59-5", "ko": "모든 걸 바로잡고 처음부터 다시 시작할 수 있다면 뭐든지 할 텐데.", "answer": "I'd give anything to fix everything and start over from the beginning." }
+      ]
+    },
+    {
+      "id": 60,
+      "title": "I can't get used to~",
+      "description": "~에 아직 적응이 안 돼",
+      "level": "B1-B2",
+      "questions": [
+        { "id": "60-1", "ko": "이 날씨에 아직 적응이 안 돼.", "answer": "I can't get used to this weather." },
+        { "id": "60-2", "ko": "일찍 일어나는 데 아직 적응이 안 돼.", "answer": "I can't get used to waking up early." },
+        { "id": "60-3", "ko": "새 직장에 아직 적응이 안 돼.", "answer": "I can't get used to my new job." },
+        { "id": "60-4", "ko": "혼자 사는 데 아직 적응이 안 돼.", "answer": "I can't get used to living alone." },
+        { "id": "60-5", "ko": "그녀가 더 이상 내 곁에 없다는 사실에 아직 적응이 안 돼.", "answer": "I can't get used to the fact that she is no longer by my side." }
+      ]
+    },
+    {
+      "id": 61,
+      "title": "I can't help but wonder~",
+      "description": "~인지 자꾸 생각하게 돼",
+      "level": "B2",
+      "questions": [
+        { "id": "61-1", "ko": "왜인지 자꾸 생각하게 돼.", "answer": "I can't help but wonder why." },
+        { "id": "61-2", "ko": "그가 괜찮은지 자꾸 생각하게 돼.", "answer": "I can't help but wonder if he's okay." },
+        { "id": "61-3", "ko": "어떻게 됐을지 자꾸 생각하게 돼.", "answer": "I can't help but wonder what happened." },
+        { "id": "61-4", "ko": "다르게 했으면 어땠을지 자꾸 생각하게 돼.", "answer": "I can't help but wonder what would have happened if I had done things differently." },
+        { "id": "61-5", "ko": "이 모든 일이 결국 어떤 결과로 이어질지 자꾸 생각하게 돼.", "answer": "I can't help but wonder what all of this will eventually lead to." }
+      ]
+    },
+    {
+      "id": 62,
+      "title": "It dawned on me that~",
+      "description": "문득 ~이라는 걸 깨달았어",
+      "level": "B2",
+      "questions": [
+        { "id": "62-1", "ko": "문득 내가 틀렸다는 걸 깨달았어.", "answer": "It dawned on me that I was wrong." },
+        { "id": "62-2", "ko": "문득 시간이 별로 없다는 걸 깨달았어.", "answer": "It dawned on me that time was running out." },
+        { "id": "62-3", "ko": "문득 아무도 오지 않을 거라는 걸 깨달았어.", "answer": "It dawned on me that nobody was coming." },
+        { "id": "62-4", "ko": "문득 그동안 잘못된 길로 가고 있었다는 걸 깨달았어.", "answer": "It dawned on me that I had been going down the wrong path." },
+        { "id": "62-5", "ko": "문득 내가 진짜 원하는 것이 처음부터 바로 눈앞에 있었다는 걸 깨달았어.", "answer": "It dawned on me that what I really wanted had been right in front of me from the start." }
+      ]
+    },
+    {
+      "id": 63,
+      "title": "I've come to realize~",
+      "description": "~라는 걸 깨닫게 됐어",
+      "level": "B2",
+      "questions": [
+        { "id": "63-1", "ko": "그가 맞다는 걸 깨닫게 됐어.", "answer": "I've come to realize he was right." },
+        { "id": "63-2", "ko": "건강이 가장 중요하다는 걸 깨닫게 됐어.", "answer": "I've come to realize health is the most important thing." },
+        { "id": "63-3", "ko": "변화를 두려워할 필요가 없다는 걸 깨닫게 됐어.", "answer": "I've come to realize there's no need to fear change." },
+        { "id": "63-4", "ko": "진정한 행복은 돈에서 오는 게 아니라는 걸 깨닫게 됐어.", "answer": "I've come to realize that true happiness doesn't come from money." },
+        { "id": "63-5", "ko": "다른 사람의 기대에 맞추려고 살 필요가 없다는 걸 깨닫게 됐어.", "answer": "I've come to realize that I don't need to live up to other people's expectations." }
+      ]
+    },
+    {
+      "id": 64,
+      "title": "I can't shake the feeling that~",
+      "description": "~이라는 느낌을 떨칠 수가 없어",
+      "level": "B2",
+      "questions": [
+        { "id": "64-1", "ko": "뭔가 잘못됐다는 느낌을 떨칠 수가 없어.", "answer": "I can't shake the feeling that something is wrong." },
+        { "id": "64-2", "ko": "누가 나를 보고 있다는 느낌을 떨칠 수가 없어.", "answer": "I can't shake the feeling that someone is watching me." },
+        { "id": "64-3", "ko": "우리가 뭔가를 놓치고 있다는 느낌을 떨칠 수가 없어.", "answer": "I can't shake the feeling that we're missing something." },
+        { "id": "64-4", "ko": "이게 다 잘 안 될 거라는 느낌을 떨칠 수가 없어.", "answer": "I can't shake the feeling that this isn't going to work out." },
+        { "id": "64-5", "ko": "그가 나한테 모든 것을 말하지 않았다는 느낌을 떨칠 수가 없어.", "answer": "I can't shake the feeling that he didn't tell me everything." }
+      ]
+    },
+    {
+      "id": 65,
+      "title": "I'm inclined to~",
+      "description": "~하고 싶은 마음이 있어",
+      "level": "B2",
+      "questions": [
+        { "id": "65-1", "ko": "동의하고 싶은 마음이 있어.", "answer": "I'm inclined to agree." },
+        { "id": "65-2", "ko": "그의 말을 믿고 싶은 마음이 있어.", "answer": "I'm inclined to believe him." },
+        { "id": "65-3", "ko": "그 제안을 받아들이고 싶은 마음이 있어.", "answer": "I'm inclined to accept the offer." },
+        { "id": "65-4", "ko": "이번에는 다른 방법을 시도하고 싶은 마음이 있어.", "answer": "I'm inclined to try a different approach this time." },
+        { "id": "65-5", "ko": "결과가 어떻든 간에 내 직감을 따르고 싶은 마음이 있어.", "answer": "I'm inclined to follow my instinct regardless of the outcome." }
+      ]
+    },
+    {
+      "id": 66,
+      "title": "It goes without saying that~",
+      "description": "~은 말할 필요도 없어",
+      "level": "B2",
+      "questions": [
+        { "id": "66-1", "ko": "건강이 중요하다는 건 말할 필요도 없어.", "answer": "It goes without saying that health is important." },
+        { "id": "66-2", "ko": "교육이 중요하다는 건 말할 필요도 없어.", "answer": "It goes without saying that education matters." },
+        { "id": "66-3", "ko": "안전이 최우선이라는 건 말할 필요도 없어.", "answer": "It goes without saying that safety comes first." },
+        { "id": "66-4", "ko": "그녀가 팀에서 가장 열심히 일한다는 건 말할 필요도 없어.", "answer": "It goes without saying that she works the hardest on the team." },
+        { "id": "66-5", "ko": "이번 프로젝트의 성공은 팀 전체의 협력에 달려 있다는 건 말할 필요도 없어.", "answer": "It goes without saying that the success of this project depends on the cooperation of the entire team." }
+      ]
+    },
+    {
+      "id": 67,
+      "title": "I couldn't have done it without~",
+      "description": "~ 없이는 못 했을 거야",
+      "level": "B2",
+      "questions": [
+        { "id": "67-1", "ko": "너 없이는 못 했을 거야.", "answer": "I couldn't have done it without you." },
+        { "id": "67-2", "ko": "그의 도움 없이는 못 했을 거야.", "answer": "I couldn't have done it without his help." },
+        { "id": "67-3", "ko": "팀 없이는 못 했을 거야.", "answer": "I couldn't have done it without my team." },
+        { "id": "67-4", "ko": "네 격려 없이는 못 했을 거야.", "answer": "I couldn't have done it without your encouragement." },
+        { "id": "67-5", "ko": "그동안 나를 지지해 준 모든 사람들 없이는 못 했을 거야.", "answer": "I couldn't have done it without everyone who supported me along the way." }
+      ]
+    },
+    {
+      "id": 68,
+      "title": "I'm at a loss for~",
+      "description": "~을 모르겠어",
+      "level": "B2",
+      "questions": [
+        { "id": "68-1", "ko": "할 말을 모르겠어.", "answer": "I'm at a loss for words." },
+        { "id": "68-2", "ko": "어떻게 해야 할지 모르겠어.", "answer": "I'm at a loss for what to do." },
+        { "id": "68-3", "ko": "어떻게 설명해야 할지 모르겠어.", "answer": "I'm at a loss for how to explain this." },
+        { "id": "68-4", "ko": "이 상황에서 무슨 말을 해야 할지 모르겠어.", "answer": "I'm at a loss for what to say in this situation." },
+        { "id": "68-5", "ko": "이렇게 복잡한 문제를 어디서부터 해결해야 할지 모르겠어.", "answer": "I'm at a loss for where to begin solving such a complicated problem." }
+      ]
+    },
+    {
+      "id": 69,
+      "title": "It's beyond me why~",
+      "description": "왜 ~인지 이해할 수가 없어",
+      "level": "B2",
+      "questions": [
+        { "id": "69-1", "ko": "왜 그가 떠났는지 이해할 수가 없어.", "answer": "It's beyond me why he left." },
+        { "id": "69-2", "ko": "왜 그녀가 거절했는지 이해할 수가 없어.", "answer": "It's beyond me why she refused." },
+        { "id": "69-3", "ko": "왜 그들이 그 계획을 바꿨는지 이해할 수가 없어.", "answer": "It's beyond me why they changed the plan." },
+        { "id": "69-4", "ko": "왜 아무도 그 문제에 대해 말하지 않는지 이해할 수가 없어.", "answer": "It's beyond me why nobody is talking about the problem." },
+        { "id": "69-5", "ko": "왜 사람들이 그렇게 분명한 경고를 무시하기로 했는지 이해할 수가 없어.", "answer": "It's beyond me why people chose to ignore such an obvious warning." }
+      ]
+    },
+    {
+      "id": 70,
+      "title": "I can't fathom~",
+      "description": "~을 도저히 이해할 수 없어",
+      "level": "B2",
+      "questions": [
+        { "id": "70-1", "ko": "그 이유를 도저히 이해할 수 없어.", "answer": "I can't fathom the reason." },
+        { "id": "70-2", "ko": "그가 왜 그랬는지 도저히 이해할 수 없어.", "answer": "I can't fathom why he did that." },
+        { "id": "70-3", "ko": "그녀가 어떤 기분이었을지 도저히 이해할 수 없어.", "answer": "I can't fathom how she must have felt." },
+        { "id": "70-4", "ko": "어떻게 그렇게 오랫동안 비밀을 지켰는지 도저히 이해할 수 없어.", "answer": "I can't fathom how he kept the secret for so long." },
+        { "id": "70-5", "ko": "어떻게 그렇게 많은 사람들이 그런 명백한 거짓말을 믿었는지 도저히 이해할 수 없어.", "answer": "I can't fathom how so many people believed such an obvious lie." }
+      ]
+    },
+    {
+      "id": 71,
+      "title": "I'm torn between~",
+      "description": "~사이에서 갈등하고 있어",
+      "level": "B2",
+      "questions": [
+        { "id": "71-1", "ko": "두 가지 사이에서 갈등하고 있어.", "answer": "I'm torn between the two." },
+        { "id": "71-2", "ko": "머무는 것과 떠나는 것 사이에서 갈등하고 있어.", "answer": "I'm torn between staying and leaving." },
+        { "id": "71-3", "ko": "내 마음과 이성 사이에서 갈등하고 있어.", "answer": "I'm torn between my heart and my head." },
+        { "id": "71-4", "ko": "안정적인 직장과 내 꿈을 따르는 것 사이에서 갈등하고 있어.", "answer": "I'm torn between a stable job and following my dream." },
+        { "id": "71-5", "ko": "내가 하고 싶은 것과 다른 사람들이 기대하는 것 사이에서 갈등하고 있어.", "answer": "I'm torn between what I want to do and what other people expect of me." }
+      ]
+    },
+    {
+      "id": 72,
+      "title": "It's a matter of~",
+      "description": "~의 문제야",
+      "level": "B2",
+      "questions": [
+        { "id": "72-1", "ko": "시간의 문제야.", "answer": "It's a matter of time." },
+        { "id": "72-2", "ko": "관점의 문제야.", "answer": "It's a matter of perspective." },
+        { "id": "72-3", "ko": "우선순위의 문제야.", "answer": "It's a matter of priorities." },
+        { "id": "72-4", "ko": "이건 신뢰의 문제야.", "answer": "It's a matter of trust." },
+        { "id": "72-5", "ko": "원하느냐 아니냐가 아니라 올바른 일을 하느냐의 문제야.", "answer": "It's not a matter of whether you want to or not, it's a matter of doing the right thing." }
+      ]
+    },
+    {
+      "id": 73,
+      "title": "I'm at the point where~",
+      "description": "이제 ~할 지경이야",
+      "level": "B2",
+      "questions": [
+        { "id": "73-1", "ko": "이제 포기할 지경이야.", "answer": "I'm at the point where I want to give up." },
+        { "id": "73-2", "ko": "이제 더 이상 신경 안 쓸 지경이야.", "answer": "I'm at the point where I don't care anymore." },
+        { "id": "73-3", "ko": "이제 뭐든 해볼 지경이야.", "answer": "I'm at the point where I'll try anything." },
+        { "id": "73-4", "ko": "이제 큰 변화가 필요한 지경이야.", "answer": "I'm at the point where I need a major change." },
+        { "id": "73-5", "ko": "이제 이 문제가 해결될 때까지 다른 건 아무것도 못 할 지경이야.", "answer": "I'm at the point where I can't do anything else until this problem is resolved." }
+      ]
+    },
+    {
+      "id": 74,
+      "title": "I can't put my finger on~",
+      "description": "~을 딱 집어 말할 수가 없어",
+      "level": "B2",
+      "questions": [
+        { "id": "74-1", "ko": "뭐가 다른지 딱 집어 말할 수가 없어.", "answer": "I can't put my finger on what's different." },
+        { "id": "74-2", "ko": "뭐가 잘못됐는지 딱 집어 말할 수가 없어.", "answer": "I can't put my finger on what went wrong." },
+        { "id": "74-3", "ko": "왜 불편한지 딱 집어 말할 수가 없어.", "answer": "I can't put my finger on why I feel uneasy." },
+        { "id": "74-4", "ko": "그 사람에 대해 뭐가 거슬리는지 딱 집어 말할 수가 없어.", "answer": "I can't put my finger on what bothers me about that person." },
+        { "id": "74-5", "ko": "이 음식 맛이 뭔가 다른데 정확히 뭐가 다른지 딱 집어 말할 수가 없어.", "answer": "I can't put my finger on what exactly is different about the taste of this food." }
+      ]
+    },
+    {
+      "id": 75,
+      "title": "I'm overwhelmed by~",
+      "description": "~에 압도당하고 있어",
+      "level": "B2",
+      "questions": [
+        { "id": "75-1", "ko": "일에 압도당하고 있어.", "answer": "I'm overwhelmed by work." },
+        { "id": "75-2", "ko": "감정에 압도당하고 있어.", "answer": "I'm overwhelmed by emotions." },
+        { "id": "75-3", "ko": "해야 할 일이 너무 많아서 압도당하고 있어.", "answer": "I'm overwhelmed by how much I have to do." },
+        { "id": "75-4", "ko": "사람들의 따뜻한 반응에 압도당하고 있어.", "answer": "I'm overwhelmed by the warm response from people." },
+        { "id": "75-5", "ko": "이 프로젝트의 규모와 복잡성에 압도당하고 있어.", "answer": "I'm overwhelmed by the scale and complexity of this project." }
+      ]
+    },
+    {
+      "id": 76,
+      "title": "It goes to show that~",
+      "description": "~이라는 걸 잘 보여주는 거야",
+      "level": "B2",
+      "questions": [
+        { "id": "76-1", "ko": "노력이 중요하다는 걸 잘 보여주는 거야.", "answer": "It goes to show that effort matters." },
+        { "id": "76-2", "ko": "아무것도 당연한 게 없다는 걸 잘 보여주는 거야.", "answer": "It goes to show that nothing is guaranteed." },
+        { "id": "76-3", "ko": "누구든 실수할 수 있다는 걸 잘 보여주는 거야.", "answer": "It goes to show that anyone can make mistakes." },
+        { "id": "76-4", "ko": "열심히 하면 결국 보상을 받는다는 걸 잘 보여주는 거야.", "answer": "It goes to show that hard work pays off in the end." },
+        { "id": "76-5", "ko": "겉모습만 보고 판단하면 안 된다는 걸 잘 보여주는 거야.", "answer": "It goes to show that you shouldn't judge something based on appearances alone." }
+      ]
+    },
+    {
+      "id": 77,
+      "title": "I'm at my wit's end",
+      "description": "어쩔 줄을 모르겠어",
+      "level": "B2",
+      "questions": [
+        { "id": "77-1", "ko": "어쩔 줄을 모르겠어.", "answer": "I'm at my wit's end." },
+        { "id": "77-2", "ko": "이 문제 때문에 어쩔 줄을 모르겠어.", "answer": "I'm at my wit's end with this problem." },
+        { "id": "77-3", "ko": "그의 행동 때문에 어쩔 줄을 모르겠어.", "answer": "I'm at my wit's end with his behavior." },
+        { "id": "77-4", "ko": "이 상황을 어떻게 해야 할지 어쩔 줄을 모르겠어.", "answer": "I'm at my wit's end trying to figure out what to do about this situation." },
+        { "id": "77-5", "ko": "모든 방법을 다 시도해 봤는데 아무것도 안 돼서 어쩔 줄을 모르겠어.", "answer": "I'm at my wit's end because I've tried everything and nothing works." }
+      ]
+    },
+    {
+      "id": 78,
+      "title": "It stands to reason that~",
+      "description": "~이 당연한 거야",
+      "level": "B2",
+      "questions": [
+        { "id": "78-1", "ko": "그가 화난 게 당연한 거야.", "answer": "It stands to reason that he's upset." },
+        { "id": "78-2", "ko": "가격이 오를 게 당연한 거야.", "answer": "It stands to reason that prices will go up." },
+        { "id": "78-3", "ko": "그녀가 걱정하는 게 당연한 거야.", "answer": "It stands to reason that she would be worried." },
+        { "id": "78-4", "ko": "연습을 많이 하면 실력이 느는 게 당연한 거야.", "answer": "It stands to reason that you get better with more practice." },
+        { "id": "78-5", "ko": "준비를 제대로 안 하면 결과가 좋지 않을 게 당연한 거야.", "answer": "It stands to reason that the results won't be good if you don't prepare properly." }
+      ]
+    },
+    {
+      "id": 79,
+      "title": "I'm compelled to~",
+      "description": "~하지 않을 수 없어",
+      "level": "B2",
+      "questions": [
+        { "id": "79-1", "ko": "말하지 않을 수 없어.", "answer": "I'm compelled to speak up." },
+        { "id": "79-2", "ko": "동의하지 않을 수 없어.", "answer": "I'm compelled to agree." },
+        { "id": "79-3", "ko": "진실을 밝히지 않을 수 없어.", "answer": "I'm compelled to reveal the truth." },
+        { "id": "79-4", "ko": "이 불공정한 상황에 대해 뭔가를 하지 않을 수 없어.", "answer": "I'm compelled to do something about this unfair situation." },
+        { "id": "79-5", "ko": "이 문제에 대해 목소리를 내서 모든 사람이 알게 하지 않을 수 없어.", "answer": "I'm compelled to speak out about this issue so that everyone is aware of it." }
+      ]
+    },
+    {
+      "id": 80,
+      "title": "I can't reconcile~ with~",
+      "description": "~와 ~를 어떻게 같이 봐야 할지 모르겠어",
+      "level": "B2",
+      "questions": [
+        { "id": "80-1", "ko": "그의 말과 행동을 어떻게 같이 봐야 할지 모르겠어.", "answer": "I can't reconcile his words with his actions." },
+        { "id": "80-2", "ko": "내 기대와 현실을 어떻게 같이 봐야 할지 모르겠어.", "answer": "I can't reconcile my expectations with reality." },
+        { "id": "80-3", "ko": "그녀의 친절함과 갑작스러운 태도 변화를 어떻게 같이 봐야 할지 모르겠어.", "answer": "I can't reconcile her kindness with her sudden change in attitude." },
+        { "id": "80-4", "ko": "회사가 말하는 가치와 실제로 하는 행동을 어떻게 같이 봐야 할지 모르겠어.", "answer": "I can't reconcile the values the company claims with what it actually does." },
+        { "id": "80-5", "ko": "그가 정직하다는 평판과 이번 사건에서 보여준 행동을 어떻게 같이 봐야 할지 모르겠어.", "answer": "I can't reconcile his reputation for honesty with the behavior he showed in this incident." }
+      ]
+    },
+    {
+      "id": 81,
+      "title": "I can't help but draw parallels between~",
+      "description": "~사이의 공통점을 찾지 않을 수 없어",
+      "level": "B2+",
+      "questions": [
+        { "id": "81-1", "ko": "이 두 사건 사이의 공통점을 찾지 않을 수 없어.", "answer": "I can't help but draw parallels between these two events." },
+        { "id": "81-2", "ko": "그의 상황과 내 상황 사이의 공통점을 찾지 않을 수 없어.", "answer": "I can't help but draw parallels between his situation and mine." },
+        { "id": "81-3", "ko": "과거와 현재 사이의 공통점을 찾지 않을 수 없어.", "answer": "I can't help but draw parallels between the past and the present." },
+        { "id": "81-4", "ko": "이 영화와 실제 사건 사이의 공통점을 찾지 않을 수 없어.", "answer": "I can't help but draw parallels between this movie and real events." },
+        { "id": "81-5", "ko": "지금 일어나고 있는 일과 역사에서 비슷한 상황 사이의 공통점을 찾지 않을 수 없어.", "answer": "I can't help but draw parallels between what is happening now and similar situations in history." }
+      ]
+    },
+    {
+      "id": 82,
+      "title": "It's not for me to say~",
+      "description": "~을 내가 말할 입장은 아니야",
+      "level": "B2+",
+      "questions": [
+        { "id": "82-1", "ko": "그건 내가 말할 입장은 아니야.", "answer": "It's not for me to say." },
+        { "id": "82-2", "ko": "그가 옳은지 틀린지 내가 말할 입장은 아니야.", "answer": "It's not for me to say whether he's right or wrong." },
+        { "id": "82-3", "ko": "그녀가 어떻게 해야 하는지 내가 말할 입장은 아니야.", "answer": "It's not for me to say what she should do." },
+        { "id": "82-4", "ko": "그들의 관계에 대해 내가 이래라저래라 할 입장은 아니야.", "answer": "It's not for me to say anything about their relationship." },
+        { "id": "82-5", "ko": "이 결정이 장기적으로 어떤 결과를 가져올지 내가 말할 입장은 아니야.", "answer": "It's not for me to say what consequences this decision will have in the long run." }
+      ]
+    },
+    {
+      "id": 83,
+      "title": "I'm in no position to~",
+      "description": "~할 처지가 아니야",
+      "level": "B2+",
+      "questions": [
+        { "id": "83-1", "ko": "판단할 처지가 아니야.", "answer": "I'm in no position to judge." },
+        { "id": "83-2", "ko": "불평할 처지가 아니야.", "answer": "I'm in no position to complain." },
+        { "id": "83-3", "ko": "조언을 할 처지가 아니야.", "answer": "I'm in no position to give advice." },
+        { "id": "83-4", "ko": "그녀에게 뭘 하라고 말할 처지가 아니야.", "answer": "I'm in no position to tell her what to do." },
+        { "id": "83-5", "ko": "남의 실수를 비판할 처지가 아니야, 나도 같은 실수를 한 적이 있으니까.", "answer": "I'm in no position to criticize others' mistakes since I've made the same ones myself." }
+      ]
+    },
+    {
+      "id": 84,
+      "title": "It's beside the point~",
+      "description": "~은 핵심이 아니야",
+      "level": "B2+",
+      "questions": [
+        { "id": "84-1", "ko": "그건 핵심이 아니야.", "answer": "It's beside the point." },
+        { "id": "84-2", "ko": "누가 시작했는지는 핵심이 아니야.", "answer": "It's beside the point who started it." },
+        { "id": "84-3", "ko": "비용이 얼마인지는 핵심이 아니야.", "answer": "It's beside the point how much it costs." },
+        { "id": "84-4", "ko": "그가 동의하는지 아닌지는 핵심이 아니야.", "answer": "It's beside the point whether he agrees or not." },
+        { "id": "84-5", "ko": "우리가 전에 어떻게 했는지는 핵심이 아니야, 중요한 건 지금 뭘 할 수 있느냐야.", "answer": "It's beside the point how we did it before, what matters is what we can do now." }
+      ]
+    },
+    {
+      "id": 85,
+      "title": "I can't stress enough how~",
+      "description": "얼마나 ~인지 아무리 강조해도 부족해",
+      "level": "B2+",
+      "questions": [
+        { "id": "85-1", "ko": "이게 얼마나 중요한지 아무리 강조해도 부족해.", "answer": "I can't stress enough how important this is." },
+        { "id": "85-2", "ko": "네가 얼마나 고마운지 아무리 강조해도 부족해.", "answer": "I can't stress enough how grateful I am." },
+        { "id": "85-3", "ko": "안전이 얼마나 중요한지 아무리 강조해도 부족해.", "answer": "I can't stress enough how crucial safety is." },
+        { "id": "85-4", "ko": "이 기회가 우리에게 얼마나 큰 의미인지 아무리 강조해도 부족해.", "answer": "I can't stress enough how much this opportunity means to us." },
+        { "id": "85-5", "ko": "제때 준비하는 것이 최종 결과에 얼마나 큰 차이를 만드는지 아무리 강조해도 부족해.", "answer": "I can't stress enough how much of a difference preparing on time makes to the final result." }
+      ]
+    },
+    {
+      "id": 86,
+      "title": "It's not unheard of~",
+      "description": "~이 드문 일은 아니야",
+      "level": "B2+",
+      "questions": [
+        { "id": "86-1", "ko": "실수하는 게 드문 일은 아니야.", "answer": "It's not unheard of to make mistakes." },
+        { "id": "86-2", "ko": "계획이 바뀌는 게 드문 일은 아니야.", "answer": "It's not unheard of for plans to change." },
+        { "id": "86-3", "ko": "사람들이 마음을 바꾸는 게 드문 일은 아니야.", "answer": "It's not unheard of for people to change their minds." },
+        { "id": "86-4", "ko": "그 나이에 새로운 직업을 시작하는 게 드문 일은 아니야.", "answer": "It's not unheard of to start a new career at that age." },
+        { "id": "86-5", "ko": "이렇게 큰 프로젝트가 예상보다 훨씬 오래 걸리는 게 드문 일은 아니야.", "answer": "It's not unheard of for a project this big to take much longer than expected." }
+      ]
+    },
+    {
+      "id": 87,
+      "title": "I'm hard-pressed to~",
+      "description": "~하기가 정말 힘들어",
+      "level": "B2+",
+      "questions": [
+        { "id": "87-1", "ko": "반대하기가 정말 힘들어.", "answer": "I'm hard-pressed to disagree." },
+        { "id": "87-2", "ko": "더 나은 예를 찾기가 정말 힘들어.", "answer": "I'm hard-pressed to find a better example." },
+        { "id": "87-3", "ko": "그것보다 더 좋은 것을 떠올리기가 정말 힘들어.", "answer": "I'm hard-pressed to think of anything better than that." },
+        { "id": "87-4", "ko": "그의 논리에서 허점을 찾기가 정말 힘들어.", "answer": "I'm hard-pressed to find a flaw in his reasoning." },
+        { "id": "87-5", "ko": "이 상황에서 모두를 만족시킬 수 있는 해결책을 찾기가 정말 힘들어.", "answer": "I'm hard-pressed to find a solution that would satisfy everyone in this situation." }
+      ]
+    },
+    {
+      "id": 88,
+      "title": "It begs the question~",
+      "description": "~라는 의문이 생겨",
+      "level": "B2+",
+      "questions": [
+        { "id": "88-1", "ko": "왜냐는 의문이 생겨.", "answer": "It begs the question why." },
+        { "id": "88-2", "ko": "누가 책임져야 하느냐는 의문이 생겨.", "answer": "It begs the question of who is responsible." },
+        { "id": "88-3", "ko": "과연 이게 가치가 있느냐는 의문이 생겨.", "answer": "It begs the question of whether this is worth it." },
+        { "id": "88-4", "ko": "우리가 정말 올바른 방향으로 가고 있느냐는 의문이 생겨.", "answer": "It begs the question of whether we're really heading in the right direction." },
+        { "id": "88-5", "ko": "이 결정이 장기적으로 조직 전체에 어떤 영향을 미칠 것이냐는 의문이 생겨.", "answer": "It begs the question of what impact this decision will have on the entire organization in the long run." }
+      ]
+    },
+    {
+      "id": 89,
+      "title": "I can't overstate~",
+      "description": "~을 아무리 강조해도 모자라",
+      "level": "B2+",
+      "questions": [
+        { "id": "89-1", "ko": "그 중요성을 아무리 강조해도 모자라.", "answer": "I can't overstate its importance." },
+        { "id": "89-2", "ko": "이 문제의 심각성을 아무리 강조해도 모자라.", "answer": "I can't overstate how serious this issue is." },
+        { "id": "89-3", "ko": "그녀의 기여를 아무리 강조해도 모자라.", "answer": "I can't overstate the value of her contribution." },
+        { "id": "89-4", "ko": "좋은 팀워크가 미치는 영향을 아무리 강조해도 모자라.", "answer": "I can't overstate the impact of good teamwork." },
+        { "id": "89-5", "ko": "이 경험이 나의 세계관을 바꾸는 데 얼마나 큰 역할을 했는지 아무리 강조해도 모자라.", "answer": "I can't overstate how much this experience played a role in changing my worldview." }
+      ]
+    },
+    {
+      "id": 90,
+      "title": "I'm at odds with~",
+      "description": "~와 의견이 맞지 않아",
+      "level": "B2+",
+      "questions": [
+        { "id": "90-1", "ko": "그와 의견이 맞지 않아.", "answer": "I'm at odds with him." },
+        { "id": "90-2", "ko": "팀과 의견이 맞지 않아.", "answer": "I'm at odds with the team." },
+        { "id": "90-3", "ko": "상사와 이 문제에 대해 의견이 맞지 않아.", "answer": "I'm at odds with my boss on this issue." },
+        { "id": "90-4", "ko": "대다수의 사람들과 의견이 맞지 않는 것 같아.", "answer": "I'm at odds with what most people seem to think." },
+        { "id": "90-5", "ko": "이 프로젝트의 방향에 대해 경영진과 의견이 맞지 않아.", "answer": "I'm at odds with the management about the direction of this project." }
+      ]
+    },
+    {
+      "id": 91,
+      "title": "It's contingent on~",
+      "description": "~에 달려 있어",
+      "level": "B2+",
+      "questions": [
+        { "id": "91-1", "ko": "날씨에 달려 있어.", "answer": "It's contingent on the weather." },
+        { "id": "91-2", "ko": "예산에 달려 있어.", "answer": "It's contingent on the budget." },
+        { "id": "91-3", "ko": "그가 동의하는지에 달려 있어.", "answer": "It's contingent on whether he agrees." },
+        { "id": "91-4", "ko": "올해 말까지 결과를 낼 수 있는지에 달려 있어.", "answer": "It's contingent on whether we can deliver results by the end of the year." },
+        { "id": "91-5", "ko": "관련된 모든 당사자들의 승인에 달려 있어.", "answer": "It's contingent on the approval of all the parties involved." }
+      ]
+    },
+    {
+      "id": 92,
+      "title": "I'm predisposed to~",
+      "description": "~하는 경향이 있어",
+      "level": "B2+",
+      "questions": [
+        { "id": "92-1", "ko": "동의하는 경향이 있어.", "answer": "I'm predisposed to agree." },
+        { "id": "92-2", "ko": "새로운 아이디어를 좋아하는 경향이 있어.", "answer": "I'm predisposed to favor new ideas." },
+        { "id": "92-3", "ko": "최악의 상황을 먼저 생각하는 경향이 있어.", "answer": "I'm predisposed to think of the worst case first." },
+        { "id": "92-4", "ko": "변화보다는 익숙한 것을 선호하는 경향이 있어.", "answer": "I'm predisposed to prefer the familiar over change." },
+        { "id": "92-5", "ko": "사람들의 말보다는 행동을 보고 판단하는 경향이 있어.", "answer": "I'm predisposed to judge people by their actions rather than their words." }
+      ]
+    },
+    {
+      "id": 93,
+      "title": "It stands in stark contrast to~",
+      "description": "~와 극명하게 대조를 이뤄",
+      "level": "B2+",
+      "questions": [
+        { "id": "93-1", "ko": "전에 했던 말과 극명하게 대조를 이뤄.", "answer": "It stands in stark contrast to what was said before." },
+        { "id": "93-2", "ko": "작년 결과와 극명하게 대조를 이뤄.", "answer": "It stands in stark contrast to last year's results." },
+        { "id": "93-3", "ko": "그가 공개적으로 말한 것과 극명하게 대조를 이뤄.", "answer": "It stands in stark contrast to what he said publicly." },
+        { "id": "93-4", "ko": "회사가 표방하는 가치관과 극명하게 대조를 이뤄.", "answer": "It stands in stark contrast to the values the company claims to uphold." },
+        { "id": "93-5", "ko": "그들이 약속한 것과 실제로 전달한 것이 극명하게 대조를 이뤄.", "answer": "What they actually delivered stands in stark contrast to what they originally promised." }
+      ]
+    },
+    {
+      "id": 94,
+      "title": "I can't help but take issue with~",
+      "description": "~에 문제를 제기하지 않을 수 없어",
+      "level": "B2+",
+      "questions": [
+        { "id": "94-1", "ko": "그 주장에 문제를 제기하지 않을 수 없어.", "answer": "I can't help but take issue with that claim." },
+        { "id": "94-2", "ko": "그 결정에 문제를 제기하지 않을 수 없어.", "answer": "I can't help but take issue with that decision." },
+        { "id": "94-3", "ko": "그들의 접근 방식에 문제를 제기하지 않을 수 없어.", "answer": "I can't help but take issue with their approach." },
+        { "id": "94-4", "ko": "그 보고서의 결론에 문제를 제기하지 않을 수 없어.", "answer": "I can't help but take issue with the conclusions of that report." },
+        { "id": "94-5", "ko": "충분한 근거도 없이 그렇게 단정적으로 말하는 것에 문제를 제기하지 않을 수 없어.", "answer": "I can't help but take issue with making such definitive statements without sufficient evidence." }
+      ]
+    },
+    {
+      "id": 95,
+      "title": "I'm on the fence about~",
+      "description": "~에 대해 아직 결정을 못 하겠어",
+      "level": "B2+",
+      "questions": [
+        { "id": "95-1", "ko": "그것에 대해 아직 결정을 못 하겠어.", "answer": "I'm on the fence about it." },
+        { "id": "95-2", "ko": "이사하는 것에 대해 아직 결정을 못 하겠어.", "answer": "I'm on the fence about moving." },
+        { "id": "95-3", "ko": "그 제안을 받아들일지 아직 결정을 못 하겠어.", "answer": "I'm on the fence about accepting the offer." },
+        { "id": "95-4", "ko": "그 새로운 정책을 지지할지 아직 결정을 못 하겠어.", "answer": "I'm on the fence about supporting the new policy." },
+        { "id": "95-5", "ko": "지금 안정적인 직장을 그만두고 창업을 할지 아직 결정을 못 하겠어.", "answer": "I'm on the fence about leaving my stable job to start my own business." }
+      ]
+    },
+    {
+      "id": 96,
+      "title": "It's indicative of~",
+      "description": "~을 보여주는 거야",
+      "level": "B2+",
+      "questions": [
+        { "id": "96-1", "ko": "더 큰 문제를 보여주는 거야.", "answer": "It's indicative of a bigger problem." },
+        { "id": "96-2", "ko": "변화가 필요하다는 걸 보여주는 거야.", "answer": "It's indicative of a need for change." },
+        { "id": "96-3", "ko": "시스템의 결함을 보여주는 거야.", "answer": "It's indicative of a flaw in the system." },
+        { "id": "96-4", "ko": "우리 사회의 더 깊은 문제를 보여주는 거야.", "answer": "It's indicative of a deeper issue in our society." },
+        { "id": "96-5", "ko": "조직 문화 전체에 근본적인 변화가 필요하다는 걸 보여주는 거야.", "answer": "It's indicative of the need for a fundamental change in the entire organizational culture." }
+      ]
+    },
+    {
+      "id": 97,
+      "title": "I'm not one to~",
+      "description": "난 ~하는 편이 아닌데",
+      "level": "B2+",
+      "questions": [
+        { "id": "97-1", "ko": "난 불평하는 편이 아닌데.", "answer": "I'm not one to complain." },
+        { "id": "97-2", "ko": "난 포기하는 편이 아닌데.", "answer": "I'm not one to give up easily." },
+        { "id": "97-3", "ko": "난 뒷담화를 하는 편이 아닌데.", "answer": "I'm not one to talk behind people's backs." },
+        { "id": "97-4", "ko": "난 남의 일에 참견하는 편이 아닌데, 이번에는 말을 해야 할 것 같아.", "answer": "I'm not one to interfere in other people's business, but this time I feel I need to say something." },
+        { "id": "97-5", "ko": "난 충고를 하는 편이 아닌데, 이번만큼은 다시 한번 생각해 보는 게 좋을 것 같아.", "answer": "I'm not one to give unsolicited advice, but this time I think you should reconsider." }
+      ]
+    },
+    {
+      "id": 98,
+      "title": "It's a testament to~",
+      "description": "~의 증거야",
+      "level": "B2+",
+      "questions": [
+        { "id": "98-1", "ko": "그의 노력의 증거야.", "answer": "It's a testament to his hard work." },
+        { "id": "98-2", "ko": "팀워크의 힘을 보여주는 증거야.", "answer": "It's a testament to the power of teamwork." },
+        { "id": "98-3", "ko": "그녀의 헌신의 증거야.", "answer": "It's a testament to her dedication." },
+        { "id": "98-4", "ko": "인간의 회복력을 보여주는 증거야.", "answer": "It's a testament to the resilience of the human spirit." },
+        { "id": "98-5", "ko": "어려운 시기에도 포기하지 않고 끝까지 해낼 수 있다는 것의 증거야.", "answer": "It's a testament to the fact that you can push through and succeed even during difficult times." }
+      ]
+    },
+    {
+      "id": 99,
+      "title": "I can't foresee~",
+      "description": "~을 예상할 수가 없어",
+      "level": "B2+",
+      "questions": [
+        { "id": "99-1", "ko": "결과를 예상할 수가 없어.", "answer": "I can't foresee the outcome." },
+        { "id": "99-2", "ko": "무슨 일이 일어날지 예상할 수가 없어.", "answer": "I can't foresee what will happen." },
+        { "id": "99-3", "ko": "이게 어떻게 끝날지 예상할 수가 없어.", "answer": "I can't foresee how this will end." },
+        { "id": "99-4", "ko": "이 결정이 어떤 결과를 가져올지 예상할 수가 없어.", "answer": "I can't foresee what consequences this decision will bring." },
+        { "id": "99-5", "ko": "이 변화가 앞으로 5년 동안 우리 업계에 어떤 영향을 미칠지 예상할 수가 없어.", "answer": "I can't foresee how this change will affect our industry over the next five years." }
+      ]
+    },
+    {
+      "id": 100,
+      "title": "I'm resigned to~",
+      "description": "~을 받아들일 수밖에 없어",
+      "level": "B2+",
+      "questions": [
+        { "id": "100-1", "ko": "현실을 받아들일 수밖에 없어.", "answer": "I'm resigned to the reality." },
+        { "id": "100-2", "ko": "기다리는 것을 받아들일 수밖에 없어.", "answer": "I'm resigned to waiting." },
+        { "id": "100-3", "ko": "이 결과를 받아들일 수밖에 없어.", "answer": "I'm resigned to accepting this outcome." },
+        { "id": "100-4", "ko": "내가 바꿀 수 없는 것들을 받아들일 수밖에 없어.", "answer": "I'm resigned to the things I cannot change." },
+        { "id": "100-5", "ko": "아무리 노력해도 어떤 것들은 내 뜻대로 되지 않는다는 사실을 받아들일 수밖에 없어.", "answer": "I'm resigned to the fact that some things won't go my way no matter how hard I try." }
+      ]
+    }
+  ]
+}
