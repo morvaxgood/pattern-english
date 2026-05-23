@@ -37,7 +37,7 @@ export default function Home() {
     <main className="max-w-2xl mx-auto px-4 py-8">
       <header className="mb-8">
         <h1 className="text-3xl font-bold text-slate-900 mb-2">Pattern English</h1>
-        <p className="text-slate-500 mb-4">영어 패턴 문장으로 B1에서 B2+까지</p>
+        <p className="text-slate-500 mb-4">하윤이의 B2 도약을 위하여</p>
 
         <div className="bg-white rounded-xl p-4 shadow-sm border border-slate-200">
           <div className="flex justify-between text-sm mb-2">
