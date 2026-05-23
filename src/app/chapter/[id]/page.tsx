@@ -86,7 +86,6 @@ export default function ChapterPage({ params }: { params: Promise<{ id: string }
         chapter={chapter}
         results={results}
         score={score}
-        passed={score >= 80}
         isLastChapter={chapterId === 100}
         onRetry={() => {
           setPhase("intro");
@@ -307,14 +306,12 @@ function ResultScreen({
   chapter,
   results,
   score,
-  passed,
   isLastChapter,
   onRetry,
 }: {
   chapter: Chapter;
   results: AnswerResult[];
   score: number;
-  passed: boolean;
   isLastChapter: boolean;
   onRetry: () => void;
 }) {
@@ -324,9 +321,9 @@ function ResultScreen({
   return (
     <main className="max-w-lg mx-auto px-4 py-8">
       <div className="text-center mb-8">
-        <div className="text-5xl mb-4">{passed ? "🎉" : "💪"}</div>
+        <div className="text-5xl mb-4">{score === 100 ? "🎉" : "👏"}</div>
         <h1 className="text-2xl font-bold text-slate-900 mb-2">
-          {passed ? "통과!" : "다시 도전하세요"}
+          테스트 완료!
         </h1>
         <p className="text-slate-500">
           Ch.{chapter.id} &middot; {chapter.title}
@@ -334,30 +331,13 @@ function ResultScreen({
       </div>
 
       {/* Score */}
-      <div className={`rounded-2xl p-6 text-center mb-6 border ${
-        passed ? "bg-blue-50 border-blue-200" : "bg-orange-50 border-orange-200"
-      }`}>
-        <div className={`text-4xl font-bold mb-1 ${passed ? "text-blue-600" : "text-orange-600"}`}>
+      <div className="rounded-2xl p-6 text-center mb-6 border bg-blue-50 border-blue-200">
+        <div className="text-4xl font-bold mb-1 text-blue-600">
           {score}점
         </div>
         <div className="text-sm text-slate-500">
           {correctCount} / {results.length} 정답
         </div>
-        {passed && !isLastChapter && (
-          <div className="mt-3 text-sm font-semibold text-blue-600">
-            다음 챕터가 해금되었습니다!
-          </div>
-        )}
-        {passed && isLastChapter && (
-          <div className="mt-3 text-sm font-semibold text-blue-600">
-            모든 챕터를 클리어했습니다!
-          </div>
-        )}
-        {!passed && (
-          <div className="mt-3 text-sm text-orange-600">
-            80점 이상 필요합니다 (현재 {score}점)
-          </div>
-        )}
       </div>
 
       {/* Wrong answers review */}
@@ -380,15 +360,7 @@ function ResultScreen({
 
       {/* Actions */}
       <div className="space-y-3">
-        {!passed && (
-          <button
-            onClick={onRetry}
-            className="w-full bg-blue-600 text-white py-3 rounded-xl font-semibold hover:bg-blue-700 transition-colors"
-          >
-            다시 도전하기
-          </button>
-        )}
-        {passed && !isLastChapter && (
+        {!isLastChapter && (
           <Link
             href={`/chapter/${chapter.id + 1}`}
             className="block w-full bg-blue-600 text-white py-3 rounded-xl font-semibold hover:bg-blue-700 transition-colors text-center"
@@ -396,7 +368,7 @@ function ResultScreen({
             다음 챕터로
           </Link>
         )}
-        {passed && isLastChapter && (
+        {isLastChapter && (
           <Link
             href="/"
             className="block w-full bg-blue-600 text-white py-3 rounded-xl font-semibold hover:bg-blue-700 transition-colors text-center"
@@ -404,20 +376,18 @@ function ResultScreen({
             홈으로
           </Link>
         )}
+        <button
+          onClick={onRetry}
+          className="w-full text-center py-3 rounded-xl font-semibold text-slate-500 hover:bg-slate-100 transition-colors"
+        >
+          다시 풀기
+        </button>
         <Link
           href="/"
-          className="block w-full text-center py-3 rounded-xl font-semibold text-slate-500 hover:bg-slate-100 transition-colors"
+          className="block w-full text-center py-3 rounded-xl font-semibold text-slate-400 hover:bg-slate-100 transition-colors"
         >
           챕터 목록
         </Link>
-        {passed && (
-          <button
-            onClick={onRetry}
-            className="w-full text-center py-3 rounded-xl font-semibold text-slate-400 hover:bg-slate-100 transition-colors"
-          >
-            다시 풀기
-          </button>
-        )}
       </div>
     </main>
   );

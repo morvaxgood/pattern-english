@@ -2,8 +2,10 @@ import { Progress } from "./types";
 
 const STORAGE_KEY = "patternEnglishProgress";
 
+const ALL_CHAPTERS = Array.from({ length: 100 }, (_, i) => i + 1);
+
 const defaultProgress: Progress = {
-  unlockedChapters: [1],
+  unlockedChapters: ALL_CHAPTERS,
   completedChapters: [],
   scores: {},
 };
@@ -30,14 +32,8 @@ export function unlockNextChapter(currentChapterId: number, score: number): Prog
     score
   );
 
-  if (score >= 80) {
-    if (!progress.completedChapters.includes(currentChapterId)) {
-      progress.completedChapters.push(currentChapterId);
-    }
-    const next = currentChapterId + 1;
-    if (next <= 100 && !progress.unlockedChapters.includes(next)) {
-      progress.unlockedChapters.push(next);
-    }
+  if (!progress.completedChapters.includes(currentChapterId)) {
+    progress.completedChapters.push(currentChapterId);
   }
 
   saveProgress(progress);
